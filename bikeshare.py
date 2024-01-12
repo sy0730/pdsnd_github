@@ -248,6 +248,8 @@ def time_stats(df):
 #플랫폼
 def station_stats(df):
       pass
+
+#여행시간 통계
 def trip_duration_stats(df):
       pass
 
