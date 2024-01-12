@@ -244,6 +244,8 @@ def analyze_data(df):
 #time
 def time_stats(df):
       pass
+
+#플랫폼
 def station_stats(df):
       pass
 def trip_duration_stats(df):
